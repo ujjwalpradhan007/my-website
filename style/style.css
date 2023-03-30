@@ -51,7 +51,7 @@ a:hover{
 
 
 .middle-container {
-    background-color: #F8EDE3;
+    background-color: #DFD3C3;
     margin: 0;
 }
 .bottom-container{
@@ -76,48 +76,48 @@ a:hover{
 }
 .top-cloud {
     position: absolute;
-    right: 300px;
-    top: 40px;
+    right: 18.75rem;
+    top: 2.5rem;
 }
 .bottom-cloud {
     position: absolute;
-    left: 250px;
-    bottom: 300px;
+    left: 15.625rem;
+    bottom: 18.75rem;
 }
 .bird1{
-    height: 50px;
-    width: 50px;
+    height: 3.125rem;
+    width: 3.125rem;
     position: absolute;
-    left: 300px;
-    top: 400px;
+    left: 18.75rem;
+    top: 25rem;
 }
 .bird2{
-    height: 50px;
-    width: 50px;
+    height: 3.125rem;
+    width: 3.125rem;
     position: absolute;
-    left: 600px;
-    top: 500px;
+    left: 37.5rem;
+    top: 31.25rem;
 }
 .bird3{
-    height: 50px;
-    width: 50px;
+    height: 3.125rem;
+    width: 3.125rem;
     position: absolute;
-    right: 300px;
-    top: 400px;
+    right: 18.75rem;
+    top: 25rem;
 }
 .bird4{
-    height: 60px;
-    width: 60px;
+    height: 3.75rem;
+    width: 3.75rem;
     position: absolute;
-    right: 500px;
-    top: 600px;
+    right: 31.25rem;
+    top: 37.5rem;
 }
 .sun{
-    height: 100px;
-    width: 100px;
+    height: 6.25rem;
+    width: 6.25rem;
     position: absolute;
-    left: 400px;
-    top: 250px;
+    left: 25rem;
+    top: 15.625;
 }
 
 .html{
